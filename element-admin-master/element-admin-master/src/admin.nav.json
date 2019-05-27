@@ -1,0 +1,102 @@
+[
+	{
+		"title": "招生",
+		"icon": "mortar-board ",
+		"path": "#",
+		"items": [
+			{
+				"title": "首页",
+				"icon": "desktop",
+				"path": "/admin/home"
+			}, {
+				"title": "录入新客户",
+				"icon": "user-plus",
+				"path": "/admin/tab1"
+			}, {
+				"title": "客户管理",
+				"icon": "users",
+				"path": "/admin/tab2"
+			}, {
+				"title": "客户管理",
+				"icon": "users",
+				"path": "/admin/tab3"
+			}, {
+				"title": "公共资源池",
+				"icon": "address-book-o",
+				"path": "/admin/tab4"
+			}
+		]
+	}, {
+		"title": "教务",
+		"icon": "television",
+		"path": "#",
+		"items": []
+	}, {
+		"title": "申请与审批",
+		"icon": "sitemap",
+		"path": "#",
+		"items": []
+	}, {
+		"title": "数据报表",
+		"icon": "line-chart",
+		"path": "#",
+		"items": [
+			{
+				"title": "校区业绩",
+				"icon": "line-bie",
+				"path": "/admin/tab1"
+			}
+		]
+	}, {
+		"title": "用户管理",
+		"icon": "user",
+		"path": "#",
+		"items": [
+			{
+				"title": "用户列表",
+				"icon": "users",
+				"path": "/admin/tab1"
+			}, {
+				"title": "规则管理",
+				"icon": "check-square-o",
+				"path": "/admin/tab2"
+			}, {
+				"title": "角色管理",
+				"icon": "user-secret",
+				"path": "/admin/tab3"
+			}, {
+				"title": "员工管理",
+				"icon": "user-plus",
+				"path": "/admin/tab4"
+			}
+		]
+	} , {
+		"title": "学校管理",
+		"icon": "university",
+		"path": "#",
+		"items": [
+			{
+				"title": "机构管理",
+				"icon": "paper-plane",
+				"path": "/admin/tab1"
+			}, {
+				"title": "分校管理",
+				"icon": "sitemap",
+				"path": "/admin/tab2"
+			}, {
+				"title": "分校管理",
+				"icon": "sitemap",
+				"path": "/admin/tab3"
+			}, {
+				"title": "员工管理",
+				"icon": "user-plus",
+				"path": "/admin/tab4"
+			}
+		]
+	}, {
+		"title": "系统设置",
+		"icon": "cogs",
+		"path": "#",
+		"items": []
+	}
+]
